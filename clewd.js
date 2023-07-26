@@ -2,7 +2,7 @@
  * SET YOUR COOKIE HERE
  * @preserve
  */
-const Cookie = '__cf_bm=lDmhRK7pO52kRNNhyh_NIDpdbvNmThjNO2fWOEiTbXE-1690076615-0-Aaq3YFq6QvGzNpW5TRKQ4RH4eHcXa2LUqY5IdeSd3Gx7s80b30VTHgbiJbvptql2FGISJD+INqjj69KTlSIESNM=; sessionKey=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; intercom-device-id-lupk8zyo=011543c4-4fec-4ae5-9c93-5d0417a6d11d; intercom-session-lupk8zyo=WGhxTVRjYmVEQU5Gb0hTVmY1Q1kwY0IxSzV5eW1sMWdqQkpiQkhSalFTTDI1emp3M1RVTVJNbzh3T0pHT25MaC0tZU1pcTRxUDRHUXVnRWJJbjlUNXJMdz09--ce3f00a1eff26237482fa2a65b895668219e024f';
+const Cookie = process.env.cookies;
 
 /**
 ## EXPERIMENTAL
