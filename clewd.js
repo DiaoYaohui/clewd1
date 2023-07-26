@@ -78,7 +78,7 @@ const Settings = {
 };
 
 const Ip = '0.0.0.0';
-const Port = 8444;
+const Port = 8000;
 
 /**
  * Don't touch StallTriggerMax.
